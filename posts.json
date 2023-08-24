@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "64277468f8be041e7ea42049"
+  },
+  "title": "public post 1",
+  "text": "added by Mohamed",
+  "createdBy": {
+    "$oid": "642729782788943418acd092"
+  },
+  "role": "Public",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307304840"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680387146799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64277471f8be041e7ea4204c"
+  },
+  "title": "public post 2",
+  "text": "added by Mohamed",
+  "createdBy": {
+    "$oid": "642729782788943418acd092"
+  },
+  "role": "Public",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307313485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680307313485"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64277483f8be041e7ea42052"
+  },
+  "title": "Private post 3",
+  "text": "added by Mohamed",
+  "createdBy": {
+    "$oid": "642729782788943418acd092"
+  },
+  "role": "Private",
+  "likedBy": [
+    {
+      "$oid": "642729782788943418acd092"
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307331420"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680379522086"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642776b87fb077b3b33d1325"
+  },
+  "title": "Public post 11",
+  "text": "added by Mostafa",
+  "createdBy": {
+    "$oid": "64272a5f2788943418acd095"
+  },
+  "role": "Public",
+  "likedBy": [
+    {
+      "$oid": "642729782788943418acd092"
+    },
+    {
+      "$oid": "64272a5f2788943418acd095"
+    },
+    {
+      "$oid": "64272aaf2788943418acd098"
+    },
+    {
+      "$oid": "642738c4e66832009ba6c6a8"
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307896481"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680379036243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642776d37fb077b3b33d132a"
+  },
+  "title": "Private post 22",
+  "text": "added by Mostafa",
+  "createdBy": {
+    "$oid": "64272a5f2788943418acd095"
+  },
+  "role": "Private",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307923741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680379459263"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642776d67fb077b3b33d132d"
+  },
+  "title": "Private post 33",
+  "text": "added by Mostafa",
+  "createdBy": {
+    "$oid": "64272a5f2788943418acd095"
+  },
+  "role": "Private",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680307926963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680307926963"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642778cb1e7c37ec0dea10e5"
+  },
+  "title": "Public post 111",
+  "text": "added by Ahmed",
+  "createdBy": {
+    "$oid": "64272aaf2788943418acd098"
+  },
+  "role": "Public",
+  "likedBy": [
+    {
+      "$oid": "642738c4e66832009ba6c6a8"
+    }
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680308427629"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680374126851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642778d91e7c37ec0dea10e8"
+  },
+  "title": "Private post 222",
+  "text": "added by Ahmed",
+  "createdBy": {
+    "$oid": "64272aaf2788943418acd098"
+  },
+  "role": "Private",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680308441984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680308441984"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642779201e7c37ec0dea10f3"
+  },
+  "title": "Private post 1111",
+  "text": "added by Migo",
+  "createdBy": {
+    "$oid": "642738c4e66832009ba6c6a8"
+  },
+  "role": "Private",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680308512857"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680308512857"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642779251e7c37ec0dea10f6"
+  },
+  "title": "Private post 2222",
+  "text": "added by Migo",
+  "createdBy": {
+    "$oid": "642738c4e66832009ba6c6a8"
+  },
+  "role": "Private",
+  "likedBy": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680308517360"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680308517360"
+    }
+  },
+  "__v": 0
+}]

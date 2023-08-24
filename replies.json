@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6428adbdb1a42b6fa2ca3a4a"
+  },
+  "replyBody": "reply from Mostafa 1",
+  "commentId": {
+    "$oid": "6428adacb1a42b6fa2ca3a45"
+  },
+  "replyId": null,
+  "replies": [
+    {
+      "$oid": "6428ae4b409383910941d720"
+    }
+  ],
+  "createdBy": {
+    "$oid": "64272a5f2788943418acd095"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680387517375"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680387659463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6428ae4b409383910941d720"
+  },
+  "replyBody": "reply from Ahmed 1",
+  "commentId": null,
+  "replyId": {
+    "$oid": "6428adbdb1a42b6fa2ca3a4a"
+  },
+  "replies": [],
+  "createdBy": {
+    "$oid": "64272aaf2788943418acd098"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680387659457"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680387659457"
+    }
+  },
+  "__v": 0
+}]

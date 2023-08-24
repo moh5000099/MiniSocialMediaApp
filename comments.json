@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6428adacb1a42b6fa2ca3a45"
+  },
+  "commentBody": "comment from Mohamed 1",
+  "postId": {
+    "$oid": "642776b87fb077b3b33d1325"
+  },
+  "replies": [
+    {
+      "$oid": "6428adbdb1a42b6fa2ca3a4a"
+    }
+  ],
+  "createdBy": {
+    "$oid": "642729782788943418acd092"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680387500175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680387517380"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "642729782788943418acd092"
+  },
+  "firstName": "Mohamed",
+  "lastName": "Magdy",
+  "userName": "moh50000",
+  "email": "xiriti6119@fectode.com",
+  "password": "$2a$08$TaTit5oVL/yqmGAD4ivG7.AiXjwbvQuj94.ESeQtRFIoewne2LSgu",
+  "isLoggedIn": true,
+  "verified": true,
+  "profilePicture": null,
+  "profilePictureCloudId": null,
+  "role": "Super User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680288120264"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680385761530"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64272a5f2788943418acd095"
+  },
+  "firstName": "Mostafa",
+  "lastName": "Magdy",
+  "userName": "mos10000",
+  "email": "rinif17184@fectode.com",
+  "password": "$2a$08$LRzClrLvApM1DccNTaJWx.B7A5SRRYB/sGkl/bfcs.uKyNigPXoQG",
+  "isLoggedIn": true,
+  "verified": true,
+  "profilePicture": null,
+  "profilePictureCloudId": null,
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680288351436"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680384774379"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64272aaf2788943418acd098"
+  },
+  "firstName": "Ahmed",
+  "lastName": "Mahmoud",
+  "userName": "mah33000",
+  "email": "naxice6477@jthoven.com",
+  "password": "$2a$08$vbXuDdgVGTNRhWv2WuescONPaU6Zv7dYZ3e7ti9Mp7rZGrRoYFr8i",
+  "isLoggedIn": true,
+  "verified": true,
+  "profilePicture": null,
+  "profilePictureCloudId": null,
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680288431402"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680385890484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642738c4e66832009ba6c6a8"
+  },
+  "firstName": "Migo",
+  "lastName": "Magdy",
+  "userName": "migo50000",
+  "email": "jiceco7010@fectode.com",
+  "password": "$2a$08$isxj7gBblra5Y4a96QgTo.1PdPwH0DM99gMa5TVjDm/6h.StHIKkG",
+  "isLoggedIn": true,
+  "verified": true,
+  "profilePicture": null,
+  "profilePictureCloudId": null,
+  "role": "User",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680292036306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680374053161"
+    }
+  },
+  "__v": 0
+}]
